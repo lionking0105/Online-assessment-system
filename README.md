@@ -99,9 +99,7 @@ The Online Assessment System is a feature-rich web application designed for cond
 - The system is optimized for laptop and desktop screens with resolutions from 1920x1080 to 1440x900.
 - The greeting text and background of the login page change according to IST time, adding a personalized touch to the user experience.
 
-## Developer 👨‍💻
 
-- Developed by: Azim Krishna
 - Contact: azimbaji19@gmail.com
 - Feedback and Support 💌: I would love to hear your feedback on the Online Assessment System! If you have any suggestions, encounter issues, or need assistance, please feel free to reach out to me via email. Your feedback helps me improve and provide better solutions.
 
